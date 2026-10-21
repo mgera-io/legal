@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-58.1335 -0.221825 167.179 102.267" role="img" aria-label="mgera">
-<title>mgera</title>
-<g transform="translate(-7,0)"><rect transform="rotate(45)" x="1.5" y="1.5" width="33" height="33" rx="4" fill="#1A8494"/></g>
-<g transform="translate(-7,0)"><rect transform="rotate(45)" x="1.5" y="37.5" width="33" height="33" rx="4" fill="#156C79"/></g>
-<g transform="translate(-7,0)"><rect transform="rotate(45)" x="37.5" y="37.5" width="33" height="33" rx="4" fill="#1C5560"/></g>
-<g transform="translate(0,0)"><rect transform="rotate(45)" x="37.5" y="1.5" width="33" height="33" rx="4" fill="#FF8A4F"/></g>
-<g transform="translate(7,0)"><rect transform="rotate(45)" x="37.5" y="-34.5" width="33" height="33" rx="4" fill="#A9DCDB"/></g>
-<g transform="translate(7,0)"><rect transform="rotate(45)" x="73.5" y="-34.5" width="33" height="33" rx="4" fill="#72C2C3"/></g>
-<g transform="translate(7,0)"><rect transform="rotate(45)" x="73.5" y="1.5" width="33" height="33" rx="4" fill="#3FA3A8"/></g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="32" height="32" role="img" aria-label="Bildmarke mgera"><rect x="6" y="7" width="40" height="8" rx="3.5" fill="#D6A653"/><rect x="14" y="18" width="44" height="8" rx="3.5" fill="#E06548"/><rect x="14" y="29" width="26" height="8" rx="3.5" fill="#8FB09E"/><path d="M9.5,40 H42 C49,40 54,42.4 59,43.5 C54,44.6 49,47 42,47 H9.5 A3.5,3.5 0 0 1 9.5,40 Z" fill="#7F8F9C"/><rect x="6" y="51" width="11" height="8" rx="1" fill="#F2E9DA"/></svg>
